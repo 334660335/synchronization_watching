@@ -1,5 +1,5 @@
 # synchronization_watching
-Able to watch the same video on different device networks
+Able to watch the same video on different device networks \r\n
 能够在不同的设备和网络上观看同一个视频
 
 The project is still under construction,this is a simaple demo
@@ -27,7 +27,7 @@ Problems:
 
 Step:
 配置步骤：
-	1.Registered a jwplayer.key on https://support.jwplayer.com
+	1.registered a jwplayer.key on https://support.jwplayer.com
 	1.在 https://support.jwplayer.com 注册一个jwplayer.key
 	
 	2.download socket io package and set the listen
